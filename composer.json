@@ -13,6 +13,10 @@
     {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/sp3cw4r/roblib_composer_drupal_template.git"
     }
   ],
   "require": {
