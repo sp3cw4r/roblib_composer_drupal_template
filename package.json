@@ -1,0 +1,10 @@
+{
+  "package": {
+    "name": "roblib/roblib-composer-drupal-template",
+    "version": "1.0.0",
+    "dist": {
+      "url": "https://your.domain/url-to/your-drupal-project.zip",
+      "type": "zip"
+    }
+  }
+}
