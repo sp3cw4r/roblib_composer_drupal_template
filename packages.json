@@ -1,10 +1,10 @@
 {
     "packages": {
-        "roblib/roblib-composer-drupal-template": {
-            "dev-master": { @composer.json },
-            "8.x-dev": { @composer.json },
-            "0.0.1": { @composer.json },
-            "1.0.0": { @composer.json }
+      "name": "roblib/roblib-composer-drupal-template",
+      "version": "8.x-dev",
+      "dist": {
+        "url": "https://github.com/sp3cw4r/roblib_composer_drupal_template.git",
+        "type": "vcs"
         }
     }
 }
