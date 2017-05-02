@@ -1,10 +1,10 @@
 {
   "package": {
     "name": "roblib/roblib-composer-drupal-template",
-    "version": "1.0.0",
+    "version": "8.x-dev",
     "dist": {
-      "url": "https://your.domain/url-to/your-drupal-project.zip",
-      "type": "zip"
+      "type": "vcs",
+      "url": "https://github.com/sp3cw4r/roblib_composer_drupal_template.git"
     }
   }
 }
