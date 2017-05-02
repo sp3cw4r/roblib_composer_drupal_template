@@ -1,5 +1,5 @@
 {
-  "package": {
+  "packages": {
     "name": "roblib/roblib-composer-drupal-template",
     "version": "8.x-dev",
     "dist": {
