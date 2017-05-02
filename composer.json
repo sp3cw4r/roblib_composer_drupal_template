@@ -16,7 +16,7 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/sp3cw4r/roblib_composer_drupal_template.git"
+      "url": "https://raw.githubusercontent.com/sp3cw4r/roblib_composer_drupal_template/master"
     }
   ],
   "require": {
